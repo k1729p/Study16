@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"kp","l":"Application"},{"p":"kp.model","l":"Box","k":"11"},{"p":"kp.util","l":"ClientCreator"},{"p":"kp","l":"Constants"},{"p":"kp.util","l":"DatasetManager"}];updateSearchResults();
